@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Bye!",
+        "description": "Say good bye to your loved  ones, and welcome grief with this terrible cake!",
+        "image": "https://pic.cakesdecor.com/m/cs9ywwwo1y0ltxuduaid.jpg",
+        "buttoncolor":"primary"
+    },
+    {
+        "title": "Crying out",
+        "description": "There is no hope in this life, so give this poorly made cake to yourself!",
+        "image": "https://cnflakes.com/public/uploaded_files/product/1631507371_156746613ed3ab00ead_53c0a497-7ab5-4b67-aaa6-91e34505d45c.jpg",
+        "buttoncolor":"warning"
+    },
+    {
+        "title": "Broken",
+        "description": "Relationships only bring suffering, eat this cake to numb the feeling a bit!",
+        "image": "https://www.giftjaipur.com/image/cache/catalog/sad-and-happy-chocolate-cake-500x500.jpg",
+        "buttoncolor":"success"
+    },
+    {
+        "title": "The end",
+        "description": "You can wipe your tears with this cake remembering you're not wanted!",
+        "image": "https://i.pinimg.com/originals/b5/3c/59/b53c590ebe2aaac5c0f45587b17416d4.jpg",
+        "buttoncolor":"danger"
+    }
+]

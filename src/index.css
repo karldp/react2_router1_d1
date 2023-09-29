@@ -1,0 +1,49 @@
+.root {
+  display: flex;
+}
+
+.justify-content-start {
+  margin-left: 0;
+}
+
+.navbar-dark.bg-dark {
+  background-color: rgb(233, 25, 60) !important;
+}
+
+.bground {
+  background-image: url('./assets/cthulhu404.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.cake-emoji {
+  font-size: 100px;
+}
+
+.form-container {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
